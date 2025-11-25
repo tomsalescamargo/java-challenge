@@ -1,3 +1,5 @@
+PERGUNTAS TEÓRICAS:
+
 1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
 
 A Camada 2 (Enlace) gerencia a comunicação dentro de uma mesma rede local, usando o endereço físico MAC para entregar 
